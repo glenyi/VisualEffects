@@ -405,6 +405,7 @@
 				B299C49A19DCE0CA00EE9613 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B299C49B19DCE0CA00EE9613 /* Build configuration list for PBXNativeTarget "VisualsTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				B299C49D19DCE0CA00EE9613 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
