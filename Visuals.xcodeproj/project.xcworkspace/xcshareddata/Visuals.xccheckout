@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E295DAD-F9CA-4FE1-9C7D-E7516A8F4AD4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Visuals</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>609F456EEFC60E3DE0A77EB93131FAE3DC68A79C</key>
+		<string>https://github.com/strekfus/VisualEffects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Visuals.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>609F456EEFC60E3DE0A77EB93131FAE3DC68A79C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/strekfus/VisualEffects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>609F456EEFC60E3DE0A77EB93131FAE3DC68A79C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>609F456EEFC60E3DE0A77EB93131FAE3DC68A79C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Visuals</string>
+		</dict>
+	</array>
+</dict>
+</plist>

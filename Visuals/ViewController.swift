@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let animationDuration = 0.5
+    
     @IBOutlet var imageView: UIImageView!
     
     @IBOutlet var extraLightBlurView: UIVisualEffectView!
@@ -27,15 +29,21 @@ class ViewController: UIViewController {
     }
 
     @IBAction func extraLightSwitchChanged(sender: UISwitch) {
-        self.extraLightBlurView.hidden = !sender.on
+        UIView .animateWithDuration(self.animationDuration, animations: { () -> Void in
+            self.extraLightBlurView.alpha = sender.on ? 1.0:0.0
+        })
     }
     
     @IBAction func lightSwitchChanged(sender: UISwitch) {
-        self.lightBlurView.hidden = !sender.on
+        UIView .animateWithDuration(self.animationDuration, animations: { () -> Void in
+            self.lightBlurView.alpha = sender.on ? 1.0:0.0
+        })
     }
     
     @IBAction func darkSwitchChanged(sender: UISwitch) {
-        self.darkBlurView.hidden = !sender.on
+        UIView .animateWithDuration(self.animationDuration, animations: { () -> Void in
+            self.darkBlurView.alpha = sender.on ? 1.0:0.0
+        })
     }
     
 }
